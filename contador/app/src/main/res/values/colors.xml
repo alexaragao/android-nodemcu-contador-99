@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorAccent">#1587a3</color>
+    <color name="colorBackground">#20b2d6</color>
+    <color name="btnIncrease">#a6ffa6</color>
+    <color name="btnDecrease">#ffa6a6</color>
+</resources>
